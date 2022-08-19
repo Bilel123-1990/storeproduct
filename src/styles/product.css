@@ -1,0 +1,11 @@
+/* .pageproduct{
+
+} */
+.prixarticle{
+    color: red;
+    font-size: large;
+}
+.button+{
+    width: 70px;
+}
+

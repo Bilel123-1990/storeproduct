@@ -1,0 +1,41 @@
+.divflex{
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    margin-top: 20px;   
+    
+}
+.divaffichproduit{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    
+}
+
+
+.divflex img{
+    width: 150px;
+    height: 150px;
+    border-radius: 30px;
+}
+.productdiv{
+    background-color: beige;
+    flex-wrap: wrap;
+    
+}
+h2{
+    text-align: left;
+    margin-top: 10px;
+    color: brown;
+}
+.produit{
+    background-color: azure;
+    
+}
+.formulaire{
+    padding-left: 150px;
+    padding-right: 150px;
+}
+/* .divlisproduct{
+    flex-basis: 20%;
+} */
